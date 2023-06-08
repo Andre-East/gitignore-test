@@ -4,7 +4,7 @@ node_modules/
 z*
 
 #Ignore any friles that end with ".env
-*.env
+.env
 
 #Ignores any top level directories named "artifiects"
 /artifacts/
